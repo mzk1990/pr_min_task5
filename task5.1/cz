@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -E '\b[^089 ]\d{2}\b\s\b\d{2}\b'

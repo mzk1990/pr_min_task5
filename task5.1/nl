@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -E '\b\d{4}\b\s\b([S][^SAD]|[^S].)\b'

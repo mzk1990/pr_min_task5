@@ -1,0 +1,2 @@
+#!/bin/bash/
+sed -e 's/\([0-9]\+\)/\1(https:\/\/github.com\/cscenter\/practical-minimum-2020-students\/issues\/\1)/; s/\(ISSUE-[0-9]*\)/[\1]/'
